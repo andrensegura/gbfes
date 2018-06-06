@@ -1,6 +1,6 @@
-# GBF ES
+# Goblin Mage
 
-This chrome extension is meant to (*eventually*) make some things in Granblue Fantasy easier.
+This cute little chrome extension is meant to (*eventually*) make some things in Granblue Fantasy easier.
 
 What it can do right now:
 
@@ -9,3 +9,4 @@ What it can do right now:
 ## Roadmap:
 
 - Basically copy everything Viramate does.
+- Cool stuff.

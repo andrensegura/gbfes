@@ -1,7 +1,3 @@
-//Kayako loads stuff dynamically. Swift/ajax, whatever. This means that if you aren't
-//going to the page directly and are clicking on the link from within Kayako, then
-//the DOM isn't completely reloaded, just the content. So, we need to check for any modification,
-//not just a new page reload.
 var section_open_style = "margin-left: 0px; width: 270px; transition-timing-function: cubic-bezier(0.5, 0, 0.5, 1); transition-duration: 0.2s;";
 var section_close_style = "margin-left: -270px; width: 270px; transition-timing-function: cubic-bezier(0, 0, 0, 1); transition-duration: 0.25s;";
 var last_clicked = '';

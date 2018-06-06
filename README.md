@@ -8,5 +8,7 @@ What it can do right now:
 
 ## Roadmap:
 
-- Basically copy everything Viramate does.
-- Cool stuff.
+- Quick links
+- Easy skills
+- Keyboard shortcuts
+- Anything I can think of that won't [trigger the anticheat.](https://www.reddit.com/r/Granblue_en/comments/4ttmmj/cygame_banhack_detection_mechanic/).

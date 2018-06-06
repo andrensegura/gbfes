@@ -1,0 +1,47 @@
+.gobmag-menu {
+    padding-top: 5px;
+}
+
+.gobmag-menu:hover {
+    background-color: #282e35;
+}
+
+.gobmag-ico {
+    display: block;
+    width: 64px;
+    height: 45px;
+    background: url("chrome-extension://nhaipbopghjpicedflmhblcpkmkenlnk/images/gobmagico2.png");
+}
+
+.gobmag-ico:active {
+    background: url("chrome-extension://nhaipbopghjpicedflmhblcpkmkenlnk/images/gobmagico2click.png");
+}
+
+.selected {
+    background-color: #282e35;
+}
+
+/*   MENU   */
+
+#cnt-gm gmheader {
+    display: inline-block;
+    margin: 0 auto;
+    font-size: 40px;
+}
+
+.submenu-cnt {
+    /*display: hidden;*/
+    background-color: #4a5563;
+    padding-left: 15px;
+}
+
+#cnt-gm a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+#cnt-gm ul {
+    list-style: circle !important;
+    padding-left: 15px;
+}

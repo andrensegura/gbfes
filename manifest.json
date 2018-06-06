@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "GBF Enhancement Suite",
+  "name": "Goblin Mage",
   "description": "Small improvements to GBF.",
   "version": "1.0",
   "web_accessible_resources": ["images/*.png", "menu.html"],

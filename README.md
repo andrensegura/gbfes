@@ -5,3 +5,7 @@ This chrome extension is meant to (*eventually*) make some things in Granblue Fa
 What it can do right now:
 
 ![progress so far](https://raw.githubusercontent.com/andrensegura/gbfes/master/images/sofar.gif)
+
+## Roadmap:
+
+- Basically copy everything Viramate does.

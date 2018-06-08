@@ -27,3 +27,7 @@ $(document).bind("DOMSubtreeModified", function() {
         });
     }
 });
+
+$("div").on('click', 'h2.collapse', function() {
+    $(this).parent().find("ul").toggle();
+});

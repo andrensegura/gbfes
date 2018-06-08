@@ -10,11 +10,11 @@
     display: block;
     width: 64px;
     height: 45px;
-    background: url("chrome-extension://nhaipbopghjpicedflmhblcpkmkenlnk/images/gobmagico2.png");
+    background: url("chrome-extension://efikipnibiakjbpahmnmdimhgaopmeoc/images/gobmagico2.png");
 }
 
 .gobmag-ico:active {
-    background: url("chrome-extension://nhaipbopghjpicedflmhblcpkmkenlnk/images/gobmagico2click.png");
+    background: url("chrome-extension://efikipnibiakjbpahmnmdimhgaopmeoc/images/gobmagico2click.png");
 }
 
 .selected {
@@ -25,14 +25,21 @@
 
 #cnt-gm gmheader {
     display: inline-block;
-    margin: 0 auto;
-    font-size: 40px;
+    width: 100%;
+    margin: 0px;
+    font-size: 30px;
+    border-bottom: 1px #0d0e0f solid;
+}
+
+#cnt-gm h2 {
+    margin: 0px;
+    padding-left: 15px;
+    border-bottom: 1px solid #3d4b5c;
 }
 
 .submenu-cnt {
     /*display: hidden;*/
     background-color: #4a5563;
-    padding-left: 15px;
 }
 
 #cnt-gm a {
@@ -43,5 +50,8 @@
 
 #cnt-gm ul {
     list-style: circle !important;
-    padding-left: 15px;
+    padding-left: 30px;
+    background-color: #4f6179;
+    display: none;
+    position: relative;
 }

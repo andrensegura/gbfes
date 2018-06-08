@@ -6,8 +6,7 @@ This cute little chrome extension is meant to (*eventually*) make some things in
 
 - Quick links
 - Easy skills
-- Keyboard shortcuts
-- Anything I can think of that won't [trigger the anticheat.](https://www.reddit.com/r/Granblue_en/comments/4ttmmj/cygame_banhack_detection_mechanic/).
+- Anything I can think of that won't trigger the anticheat.
 
 What it can do right now:
 

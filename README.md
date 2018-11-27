@@ -1,6 +1,6 @@
 # Goblin Mage
 
-This cute little chrome extension is meant to (*eventually*) make some things in Granblue Fantasy easier.
+This cute little chrome extension was meant to (*eventually*) make some things in Granblue Fantasy easier. I've given up on the project due to lack of interest in the game. :(
 
 ## Roadmap:
 
